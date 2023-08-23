@@ -1,0 +1,107 @@
+#header {
+    background-color: #4682A9;
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+
+.nav li a {
+    color: white;
+}
+
+.nav li a:hover {
+    color: #ADC4CE;
+}
+
+
+#hero {
+    background-color: #91C8E4;
+}
+
+.pro-image {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.name {
+    align-self: center;
+    font-family: 'Noto Serif Display', serif;
+    padding-left: 30px;
+    color: #2a4e76;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background-color: #4682A9;
+}
+
+#skills {
+    font-family: 'Noto Serif Display', serif;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif; 
+}
+
+.skill-icon {
+    color: white;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+    position: relative;
+}
+
+#reviews {
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+    background-color: #4682A9;
+    color: white;
+}
+
+.comment {
+    font-family: 'Noto Serif Display', serif;
+}
+
+#contact {
+    font-family: 'Sofia Sans Semi Condensed', sans-serif; 
+}
+
+/*.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }*/
+  .form-group {
+    margin-bottom: 15px;
+  }
+  .form-label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .form-control-textarea {
+    resize: vertical;
+  }
+  .submit-btn {
+    background-color: #4682A9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+#footer {
+    background-color: #4682A9;
+    color: white;
+}
+
+.names {
+    color: white;
+}
+
+
